@@ -15,7 +15,7 @@ Deep-Disaster: Unsupervised Disaster Detection and Localization Using Visual Dat
    ```
 2. Create the virtual environment via conda
     ```
-    conda create -n deepdisaster python=3.8
+    conda create -n deepdisaster python=3.7
     ```
 3. Activate the virtual environment.
     ```

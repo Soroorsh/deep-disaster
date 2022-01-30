@@ -3,7 +3,8 @@
 This repository contains Pytorch implementation for training and evaluating of the following paper:
 Deep-Disaster: Unsupervised Disaster Detection and Localization Using Visual Data [[1]](#6-reference)
 
-| <img src="Images/Deep-Disaster_all.png"=250x250> | <img src="Images/Deep-Disaster_model_define.png"=250x250> |
+<img src="Images/Deep-Disaster_all.png" alt="hi" class="inline"/>
+
 
 #### Thanks to these repos [skip-ganomaly](https://github.com/samet-akcay/skip-gano) and [Knowledge_Distillation_AD](https://github.com/rohban-lab/Knowledge_Distillation_AD)
 

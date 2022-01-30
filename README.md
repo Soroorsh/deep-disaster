@@ -3,9 +3,7 @@
 This repository contains Pytorch implementation for training and evaluating of the following paper:
 Deep-Disaster: Unsupervised Disaster Detection and Localization Using Visual Data [[1]](#6-reference)
 
-<img src="Images/Deep-Disaster_bk-Page-2.jpg" width="200" height ="200"/> 
-
-<!-- <img src="Images/Deep-Disaster_model_define.png" width="200" height="200"/> -->
+<!-- <img src="Images/Deep-Disaster_bk-Page-2.jpg" width="200" height ="200"/>  <img src="Images/Deep-Disaster_model_define.png" width="200" height="200"/> -->
 
 
 #### Thanks to these repos [skip-ganomaly](https://github.com/samet-akcay/skip-gano) and [Knowledge_Distillation_AD](https://github.com/rohban-lab/Knowledge_Distillation_AD)
@@ -76,7 +74,7 @@ python test.py --dataset <class_name> --load_weights --localization_test
 ```
 ###### For Localization test you should remove the `nodamage` folder in `{dad_class_name}/test/` folder.
 
-## Citating Deep-Disaster
+<!-- ## Citating Deep-Disaster
 If you want to cite this work in your publication:
 ``` bash
 @article{,
@@ -87,7 +85,7 @@ If you want to cite this work in your publication:
   archivePrefix={arXiv},
   primaryClass={cs.CV}
 }
-```
+``` -->
 ## Reference
 [1] [Deep-Disaster: Unsupervised Disaster Detection and Localization Using Visual Data](https://arxiv.org/pdf/).
 

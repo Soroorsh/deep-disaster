@@ -23,7 +23,7 @@ Deep-Disaster: Unsupervised Disaster Detection and Localization Using Visual Dat
     ```
 4. Install the dependencies.
    ```
-   pip install --user --requirement requirements.txt
+   pip install -r requirements.txt
    ```
 ## Dataset:
 This repository employ disaster detection on DAD dataset.

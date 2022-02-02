@@ -78,15 +78,15 @@ python test.py --dataset <class_name> --load_weights --localization_test
 <!-- ## Citating Deep-Disaster
 If you want to cite this work in your publication:
 ``` bash
-@article{,
-  title={Deep-Disaster: Unsupervised Disaster Detection and Localization Using Visual Data},
-  author={Shekarizadeh, Soroor and Rastgoo, Razieh and Al-Kuwari, Saif and Sabokrou, Mohammad},
-  year={2022},
-  eprint={},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV}
+@misc{shekarizadeh2022deepdisaster,
+      title={Deep-Disaster: Unsupervised Disaster Detection and Localization Using Visual Data}, 
+      author={Soroor Shekarizadeh and Razieh Rastgoo and Saif Al-Kuwari and Mohammad Sabokrou},
+      year={2022},
+      eprint={2202.00050},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ``` -->
 ## Reference
-[1] [Deep-Disaster: Unsupervised Disaster Detection and Localization Using Visual Data](https://arxiv.org/pdf/).
+[1] [Deep-Disaster: Unsupervised Disaster Detection and Localization Using Visual Data](https://arxiv.org/pdf/2202.00050.pdf).
 
